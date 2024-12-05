@@ -1,0 +1,319 @@
+{
+  "location": {
+    "name": "Sri Lanka",
+    "region": "South Asia",
+    "country": "Sri Lanka"
+  },
+  "scores": {
+    "safety": {
+      "overall_score": 6,
+      "subcategories": {
+        "crime_rate": {
+          "score": 7,
+          "description": "Low violent crime rate, petty theft main concern in tourist areas"
+        },
+        "natural_disasters": {
+          "score": 6,
+          "description": "Monsoon season affects certain regions; flooding possible but Jan-Feb typically safe"
+        },
+        "political_stability": {
+          "score": 5,
+          "description": "Recovering from recent economic crisis, situation stabilizing but some uncertainty remains"
+        },
+        "tourist_safety": {
+          "score": 8,
+          "description": "Tourist areas well-patrolled, good infrastructure for visitors"
+        },
+        "emergency_services": {
+          "score": 6,
+          "description": "Variable response times, better in tourist and urban areas"
+        }
+      },
+      "notes": "Generally safe for tourists with normal precautions. Tourist areas well-patrolled but some political instability exists."
+    },
+    "winter_climate": {
+      "overall_score": 8,
+      "subcategories": {
+        "avg_temp_jan_feb": {
+          "score": 9,
+          "description": "25-30°C (77-86°F), perfect beach and outdoor activity weather"
+        },
+        "precipitation": {
+          "score": 8,
+          "description": "Minimal rainfall during Jan-Feb (dry season)"
+        },
+        "sunshine_hours": {
+          "score": 8,
+          "description": "8-9 hours daily, consistent sunny weather"
+        },
+        "humidity": {
+          "score": 7,
+          "description": "Moderate humidity levels, particularly comfortable in winter months"
+        },
+        "weather_stability": {
+          "score": 8,
+          "description": "Very stable during winter months, predictable conditions"
+        }
+      },
+      "notes": "Ideal winter weather. East coast beaches perfect during this period. Low humidity, minimal rain."
+    },
+    "healthcare": {
+      "overall_score": 6,
+      "subcategories": {
+        "quality": {
+          "score": 6,
+          "description": "Good in private hospitals, variable in public facilities"
+        },
+        "accessibility": {
+          "score": 7,
+          "description": "Major cities have good facilities, rural areas more limited"
+        },
+        "cost": {
+          "score": 8,
+          "description": "Very affordable compared to Western prices, including private care"
+        },
+        "insurance_options": {
+          "score": 6,
+          "description": "International insurance accepted at private hospitals"
+        },
+        "emergency_services": {
+          "score": 5,
+          "description": "Response times vary significantly by region"
+        }
+      },
+      "notes": "Recommend private hospitals in major cities for serious issues. Travel insurance advised."
+    },
+    "cost_of_living": {
+      "overall_score": 8,
+      "subcategories": {
+        "housing_monthly": {
+          "score": 8,
+          "description": "Very affordable housing options in most areas",
+          "average_cost": "$500-1500 for family villa/house"
+        },
+        "groceries_monthly": {
+          "score": 8,
+          "description": "Mix of local and imported products available",
+          "average_cost": "$400-600 for family"
+        },
+        "utilities_monthly": {
+          "score": 7,
+          "description": "Reasonable utility costs, AC usage main factor",
+          "average_cost": "$100-200"
+        },
+        "transportation_monthly": {
+          "score": 7,
+          "description": "Affordable public transport, taxis reasonable",
+          "average_cost": "$200-300"
+        }
+      },
+      "notes": "Very affordable by Western standards. High-quality housing available at reasonable prices."
+    },
+    "visa_situation": {
+      "overall_score": 7,
+      "subcategories": {
+        "type_available": {
+          "score": 8,
+          "description": "ETA (tourist visa) or visit visa readily available"
+        },
+        "max_stay": {
+          "score": 7,
+          "description": "90 days initially, can be extended up to 6 months"
+        },
+        "difficulty": {
+          "score": 8,
+          "description": "Simple online application process"
+        },
+        "renewal_process": {
+          "score": 6,
+          "description": "Extensions possible through immigration office visit"
+        }
+      },
+      "notes": "Easy initial entry, straightforward extension process. Good for long-term stays."
+    },
+    "family_amenities": {
+      "overall_score": 7,
+      "subcategories": {
+        "activities": {
+          "score": 8,
+          "description": "Abundant outdoor activities, cultural sites, and nature experiences"
+        },
+        "education": {
+          "score": 6,
+          "description": "International schools available in major cities"
+        },
+        "internet": {
+          "score": 7,
+          "description": "4G widely available, fiber in cities, some rural limitations"
+        },
+        "recreation": {
+          "score": 8,
+          "description": "Beaches, wildlife parks, historical sites readily accessible"
+        }
+      },
+      "notes": "Rich in cultural and outdoor activities. Many family-friendly resorts and activities."
+    }
+  },
+  "property_info": {
+    "overall_score": 6,
+    "subcategories": {
+      "foreign_ownership": {
+        "score": 4,
+        "description": "Restrictions on foreign land ownership",
+        "can_foreigners_own": "Cannot own land, but can lease long-term"
+      },
+      "airbnb_situation": {
+        "score": 8,
+        "description": "Well-established short-term rental market",
+        "airbnb_allowed": "Yes, widely available and legal"
+      },
+      "rental_market": {
+        "score": 7,
+        "description": "Active rental market in tourist and expat areas"
+      }
+    }
+  },
+  "practical_details": {
+    "overall_score": 7,
+    "subcategories": {
+      "time_zone": {
+        "score": 7,
+        "description": "GMT+5:30, workable with Europe/Asia",
+        "zone_details": "GMT+5:30"
+      },
+      "language_barrier": {
+        "score": 7,
+        "description": "English widely used in tourist areas"
+      },
+      "transportation": {
+        "score": 6,
+        "description": "Various options available but can be challenging"
+      },
+      "remote_work_infrastructure": {
+        "score": 7,
+        "description": "Good in cities, coworking spaces available"
+      }
+    }
+  },
+  "summary": {
+    "total_score": 42,
+    "category_scores": {
+      "safety": 6,
+      "winter_climate": 8,
+      "healthcare": 6,
+      "cost_of_living": 8,
+      "visa_situation": 7,
+      "family_amenities": 7,
+      "property_info": 6,
+      "practical_details": 7
+    },
+    "strengths": [
+      "Perfect winter weather during Jan-Feb",
+      "Very affordable cost of living",
+      "Rich cultural experiences",
+      "Beautiful beaches and nature",
+      "Family-friendly activities",
+      "Easy visa process"
+    ],
+    "weaknesses": [
+      "Healthcare system not world-class",
+      "Internet can be unreliable outside cities",
+      "Property ownership restrictions",
+      "Some political/economic instability",
+      "Transportation can be challenging"
+    ],
+    "overall_notes": "Sri Lanka offers an excellent winter escape with perfect weather during January-February. The country provides a great balance of affordability, cultural experiences, and natural beauty. While there are some infrastructure challenges, the low cost of living and rich experiences make it an attractive option for a creative family. Best suited for families comfortable with some adventure and willing to adapt to a different pace of life."
+  },
+  "recommended_locations": [
+    {
+      "name": "Galle",
+      "region": "Southern Province",
+      "coords": {
+        "lat": 6.0535,
+        "lng": 80.2210
+      },
+      "brief": "UNESCO Heritage Fort city with thriving arts scene, excellent infrastructure, and strong expat community"
+    },
+    {
+      "name": "Kandy",
+      "region": "Central Province",
+      "coords": {
+        "lat": 7.2906,
+        "lng": 80.6337
+      },
+      "brief": "Cultural capital featuring Temple of the Tooth, surrounded by hills and tea plantations"
+    },
+    {
+      "name": "Mirissa",
+      "region": "Southern Coast",
+      "coords": {
+        "lat": 5.9483,
+        "lng": 80.4716
+      },
+      "brief": "Picturesque beach town with growing digital nomad scene and whale watching"
+    },
+    {
+      "name": "Colombo 7 (Cinnamon Gardens)",
+      "region": "Western Province",
+      "coords": {
+        "lat": 6.9011,
+        "lng": 79.8635
+      },
+      "brief": "Upscale district with best infrastructure, galleries, and international community"
+    },
+    {
+      "name": "Unawatuna",
+      "region": "Southern Province",
+      "coords": {
+        "lat": 6.0174,
+        "lng": 80.2489
+      },
+      "brief": "Safe beach community with art cafes and strong tourist infrastructure"
+    },
+    {
+      "name": "Trincomalee",
+      "region": "Eastern Province",
+      "coords": {
+        "lat": 8.5874,
+        "lng": 81.2152
+      },
+      "brief": "Historic port city with beautiful beaches, perfect for January-February"
+    },
+    {
+      "name": "Negombo",
+      "region": "Western Province",
+      "coords": {
+        "lat": 7.2095,
+        "lng": 79.8369
+      },
+      "brief": "Family-oriented coastal city near airport with strong infrastructure"
+    },
+    {
+      "name": "Ella",
+      "region": "Uva Province",
+      "coords": {
+        "lat": 6.8667,
+        "lng": 81.0466
+      },
+      "brief": "Mountain town surrounded by tea plantations, popular with artists"
+    },
+    {
+      "name": "Hikkaduwa",
+      "region": "Southern Province",
+      "coords": {
+        "lat": 6.1395,
+        "lng": 80.1063
+      },
+      "brief": "Vibrant beach town with established tourist infrastructure and surf culture"
+    },
+    {
+      "name": "Dambulla",
+      "region": "Central Province",
+      "coords": {
+        "lat": 7.8675,
+        "lng": 80.6517
+      },
+      "brief": "Ancient city with UNESCO cave temples and growing tourist infrastructure"
+    }
+  ]
+}

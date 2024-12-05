@@ -1,0 +1,20 @@
+{
+  "recommended_locations": [
+    {
+      "name": "Example Location",
+      "region": "Example Region",
+      "coords": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "brief": "Example description of the location",
+      "formatted_address": "Example Address",
+      "place_id": "example_place_id",
+      "photo_url": null,
+      "rating": null,
+      "user_ratings_total": null,
+      "business_status": null,
+      "price_level": null
+    }
+  ]
+} 

@@ -1,0 +1,233 @@
+{
+  "location": {
+    "name": "",
+    "region": "",
+    "country": ""
+  },
+  "scores": {
+    "safety": {
+      "overall_score": 0,
+      "subcategories": {
+        "crime_rate": {
+          "score": 0,
+          "description": ""
+        },
+        "natural_disasters": {
+          "score": 0,
+          "description": ""
+        },
+        "political_stability": {
+          "score": 0,
+          "description": ""
+        },
+        "tourist_safety": {
+          "score": 0,
+          "description": ""
+        },
+        "emergency_services": {
+          "score": 0,
+          "description": ""
+        }
+      },
+      "notes": ""
+    },
+    "winter_climate": {
+      "overall_score": 0,
+      "subcategories": {
+        "avg_temp_jan_feb": {
+          "score": 0,
+          "description": ""
+        },
+        "precipitation": {
+          "score": 0,
+          "description": ""
+        },
+        "sunshine_hours": {
+          "score": 0,
+          "description": ""
+        },
+        "humidity": {
+          "score": 0,
+          "description": ""
+        },
+        "weather_stability": {
+          "score": 0,
+          "description": ""
+        }
+      },
+      "notes": ""
+    },
+    "healthcare": {
+      "overall_score": 0,
+      "subcategories": {
+        "quality": {
+          "score": 0,
+          "description": ""
+        },
+        "accessibility": {
+          "score": 0,
+          "description": ""
+        },
+        "cost": {
+          "score": 0,
+          "description": ""
+        },
+        "insurance_options": {
+          "score": 0,
+          "description": ""
+        },
+        "emergency_services": {
+          "score": 0,
+          "description": ""
+        }
+      },
+      "notes": ""
+    },
+    "cost_of_living": {
+      "overall_score": 0,
+      "subcategories": {
+        "housing_monthly": {
+          "score": 0,
+          "description": "",
+          "average_cost": ""
+        },
+        "groceries_monthly": {
+          "score": 0,
+          "description": "",
+          "average_cost": ""
+        },
+        "utilities_monthly": {
+          "score": 0,
+          "description": "",
+          "average_cost": ""
+        },
+        "transportation_monthly": {
+          "score": 0,
+          "description": "",
+          "average_cost": ""
+        },
+        "entertainment": {
+          "score": 0,
+          "description": "",
+          "average_cost": ""
+        }
+      },
+      "notes": ""
+    },
+    "visa_situation": {
+      "overall_score": 0,
+      "subcategories": {
+        "type_available": {
+          "score": 0,
+          "description": ""
+        },
+        "max_stay": {
+          "score": 0,
+          "description": ""
+        },
+        "difficulty": {
+          "score": 0,
+          "description": ""
+        },
+        "renewal_process": {
+          "score": 0,
+          "description": ""
+        },
+        "work_rights": {
+          "score": 0,
+          "description": ""
+        }
+      },
+      "notes": ""
+    },
+    "family_amenities": {
+      "overall_score": 0,
+      "subcategories": {
+        "activities": {
+          "score": 0,
+          "description": ""
+        },
+        "education": {
+          "score": 0,
+          "description": ""
+        },
+        "internet": {
+          "score": 0,
+          "description": ""
+        },
+        "healthcare": {
+          "score": 0,
+          "description": ""
+        },
+        "recreation": {
+          "score": 0,
+          "description": ""
+        }
+      },
+      "notes": ""
+    }
+  },
+  "property_info": {
+    "overall_score": 0,
+    "subcategories": {
+      "foreign_ownership": {
+        "score": 0,
+        "description": "",
+        "can_foreigners_own": ""
+      },
+      "airbnb_situation": {
+        "score": 0,
+        "description": "",
+        "airbnb_allowed": ""
+      },
+      "housing_market": {
+        "score": 0,
+        "description": "",
+        "avg_house_cost": ""
+      },
+      "rental_market": {
+        "score": 0,
+        "description": "",
+        "market_details": ""
+      }
+    }
+  },
+  "practical_details": {
+    "overall_score": 0,
+    "subcategories": {
+      "time_zone": {
+        "score": 0,
+        "description": "",
+        "zone_details": ""
+      },
+      "language_barrier": {
+        "score": 0,
+        "description": ""
+      },
+      "transportation": {
+        "score": 0,
+        "description": ""
+      },
+      "remote_work_infrastructure": {
+        "score": 0,
+        "description": ""
+      }
+    }
+  },
+  "summary": {
+    "total_score": 0,
+    "category_scores": {
+      "safety": 0,
+      "winter_climate": 0,
+      "healthcare": 0,
+      "cost_of_living": 0,
+      "visa_situation": 0,
+      "family_amenities": 0,
+      "property_info": 0,
+      "practical_details": 0
+    },
+    "strengths": [],
+    "weaknesses": [],
+    "overall_notes": ""
+  }
+}
